@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/coverage
+/demo/dist
+/es
+/lib
+/build
+/node_modules
+/umd
+npm-debug.log*
+yarn.lock
